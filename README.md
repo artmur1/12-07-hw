@@ -88,26 +88,27 @@ books (book_id, name_books, author, year, store_id)
 store (store_id, city, address, district, postal_code, phone)
 
 
-![alt text](https://github.com/artmur1/12-06-hw/blob/main/hw-12-07-zad2-1.png)
+![alt text](https://github.com/artmur1/12-07-hw/blob/main/hw-12-07-zad2-1.png)
 
 #### Вертикальный шардинг
 
 Выполнил логическое разбиение одной базы данных на три:
 
-![alt text](https://github.com/artmur1/12-06-hw/blob/main/hw-12-07-zad2-2.png)
+![alt text](https://github.com/artmur1/12-07-hw/blob/main/hw-12-07-zad2-2.png)
 
 База данных DB BooksStore
 
-![alt text](https://github.com/artmur1/12-06-hw/blob/main/hw-12-07-zad2-3.png)
+![alt text](https://github.com/artmur1/12-07-hw/blob/main/hw-12-07-zad2-3.png)
 
 #### Горизонтальный шардинг
 
 Выделил данные которые будут хранится в одной базе данных и в другой базе данных:
 
-![alt text](https://github.com/artmur1/12-06-hw/blob/main/hw-12-07-zad2-4.png)
+![alt text](https://github.com/artmur1/12-07-hw/blob/main/hw-12-07-zad2-4.png)
 
-Ссылка на файл с блок-схемами
+Ссылка на файл с блок-схемами:
 
+https://github.com/artmur1/12-07-hw/blob/main/hw-12-07-zad2-block-shemy_Murchin.docx
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
